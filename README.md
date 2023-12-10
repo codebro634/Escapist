@@ -16,7 +16,7 @@ and maneuver through 14 different levels:
 Alternatively, you can design your own levels, by clicking on the notepad and use **asf123** as the password.
 
 <p align="center">
-  <img src="resources/r4.png" alt="Alt text" width="400">
+  <img src="resources/r2.png" alt="Alt text" width="400">
 </p>
 
 # Java version
