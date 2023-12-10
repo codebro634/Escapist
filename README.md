@@ -1,30 +1,23 @@
 # Escapist
-A dungeon crawler / jump&run.  
+A dungeon crawler / jump&run. Once loaded, click the door to jump into the adventure
 
 <p align="center">
-  <img src="resourcesr1.png" alt="Alt text" width="400">
+  <img src="resources/r1.png" alt="Alt text" width="400">
 </p>
 
-Through mining bitcoins by manual labor and smart investments, you can eventually become a bitcoin-billionaire
-
-<p align="center">
-  <img src="resourcesr2.png" alt="Alt text" width="400">
-</p>
-
-all while Bitti, the bitcoin lectures you about the blockchain and bitcoin. Once you max out your bitcoin empire you will hopefully have also maxed out your knowledge about the blockchain and bitcoin!
+and maneuver through 14 different levels:
 
 <p align="center">
   <img src="resources/r3.png" alt="Alt text" width="400">
+  <img src="resources/r4.png" alt="Alt text" width="400">
+  <img src="resources/r5.png" alt="Alt text" width="400">
 </p>
 
-Can you unlock all achievements?
+Alternatively, you can design your own levels, by clicking on the notepad and use **asf123** as the password.
 
 <p align="center">
   <img src="resources/images/r4.png" alt="Alt text" width="400">
 </p>
-
-# Credits
-Big thanks to Nguyen K., Lennart K., Laurin K., Yaesin S., Adnan Q., Moritz B., Marvin S., and Christopher K. for creating the info-texts as well as the graphics!
 
 # Java version
 The source code is written for Java 7 (51) and the .jar was compiled with the same version.
