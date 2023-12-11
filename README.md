@@ -1,5 +1,5 @@
 # Escapist
-A dungeon crawler/jump&run. Once loaded, click the door to jump into the adventure
+One of my first projects from 2016 - Escapist: A dungeon crawler/jump&run. Once loaded, click the door to jump into the adventure
 
 <p align="center">
   <img src="resources/r1.png" alt="Alt text" width="400">
